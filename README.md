@@ -4,10 +4,10 @@
 💻 **Passionate about Backend Development & Test Automation**  
 
 ## 🚀 About Me  
-- 🔹 Enthusiastic about **Java Spring Boot** development  
-- 🔹 Skilled in **Test Automation** with **Selenium, JUnit, Mockito, and TestNG**  
-- 🔹 Experienced in building **scalable REST APIs**  
-- 🔹 Interested in **Software Quality Assurance** & **Automated Testing**  
+   🔹 Enthusiastic about **Java Spring Boot** development  
+   🔹 Skilled in **Test Automation** with **Selenium, JUnit, Mockito, and TestNG**  
+   🔹 Experienced in building **scalable REST APIs**  
+   🔹 Interested in **Software Quality Assurance** & **Automated Testing**  
 
 ## 🔧 Technologies & Tools  
 - **Programming:** Java, Python  
