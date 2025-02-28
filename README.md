@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Tharindu Darshana!  
 
-<!--
-**Thandu-darshana/Thandu-darshana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate at Sabaragamuwa University of Sri Lanka**  
+💻 **Passionate about Backend Development & Test Automation**  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔹 Enthusiastic about **Java Spring Boot** development  
+- 🔹 Skilled in **Test Automation** with **Selenium, JUnit, Mockito, and TestNG**  
+- 🔹 Experienced in building **scalable REST APIs**  
+- 🔹 Interested in **Software Quality Assurance** & **Automated Testing**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Programming:** Java, Python  
+- **Backend:** Spring Boot, Node.js  
+- **Testing Frameworks:** JUnit, TestNG, Mockito, Selenium, Jest
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git, GitHub  
+
+## 📫 Connect with Me  
+- LinkedIn: [linkedin.com/in/tharindu-rathnasuriya/](#)  
+- GitHub: [github.com/Thandu-darshana](#)  
+- Email: [darshanarathnasuriya@gmail.com](#)  
+
+🚀 Open to collaborations and learning opportunities in **backend development and test automation**!  
+
