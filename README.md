@@ -17,7 +17,7 @@
 - **Version Control:** Git, GitHub  
 
 ## 📫 Connect with Me  
-- LinkedIn: [linkedin.com/in/tharindu-rathnasuriya/](#)  
+- LinkedIn: [https://www.linkedin.com/in/tharindu-rathnasuriya/](#)  
 - GitHub: [github.com/Thandu-darshana](#)  
 - Email: [darshanarathnasuriya@gmail.com](#)  
 
